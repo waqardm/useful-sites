@@ -30,8 +30,7 @@
 ## Blog Posts 💻
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [CSS Tricks](https://css-tricks.com/)
-- [Zen of Programming](https://zen-of-programming.com/)
-
+- 
 ## Video Tutorials 📽️
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb) - Various languages and frameworks covered
 - [DevMarketer](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA) - Mainly PHP/Laravel but also covers some great concepts around git
