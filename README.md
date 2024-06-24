@@ -19,6 +19,9 @@
 - [W3Schools](https://www.w3schools.com/)
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 
+**Markdown**
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+
 **PHP**
 - [PHP Manual](http://php.net/manual/en/index.php)
 - [Laravel Documentation](https://laravel.com/docs/)
