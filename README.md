@@ -45,5 +45,5 @@
 
 ## Communities 🏢
 
-- [DEV Community](https://dev.to/) - One of the best dev communities I have come across
+- [DEV Community](https://dev.to/)
 
