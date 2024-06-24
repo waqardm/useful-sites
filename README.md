@@ -16,7 +16,6 @@
 - [Codepen](https://codepen.io) - Learn / practice CSS and see the magic of CSS
  
 **JS/HTML/Jquery**
-- [Practical Javascript](https://watchandcode.com/p/practical-javascript) - JS explained in plain English
 - [W3Schools](https://www.w3schools.com/)
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 
