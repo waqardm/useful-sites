@@ -46,3 +46,7 @@
 
 - [DEV Community](https://dev.to/)
 
+## Mental Health 🤒
+
+- [Managing Burnout](https://www.turing.com/blog/international-programmers-day-ways-to-deal-with-programmer-burnout/)
+
